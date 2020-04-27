@@ -6,7 +6,7 @@
 
 ## Getting Started :smiley:
 
-- \$ git clone https://github.com/YazanAlmatar99/TipSplitter
+- \$ git clone https://github.com/YazanAlmatar99/TipSplitter.git
 - \$ cd BMI-Calculator-
 - \$ open BMI Tipsy.xcodeproj
 
