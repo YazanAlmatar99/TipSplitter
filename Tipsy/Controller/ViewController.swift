@@ -18,11 +18,12 @@ class ViewController: UIViewController {
     }
 
     @IBAction func calculatePressed(_ sender: UIButton) {
-        
+       
     }
+    
     @IBAction func percentageButton(_ sender: UIButton) {
         print(sender.currentTitle!)
-     }
+    }
      
     @IBAction func countStepper(_ sender: UIStepper) {
         print(sender.value)
