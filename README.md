@@ -4,5 +4,16 @@
 
 ### credits: https://www.yazanalmatar.com
 
+## Getting Started :smiley:
+
+- \$ git clone https://github.com/YazanAlmatar99/TipSplitter
+- \$ cd BMI-Calculator-
+- \$ open BMI Tipsy.xcodeproj
+
+## Requirements
+
+- Swift 5
+- IOS 13
+
 <img src = "ScreenShot1.png" width="350">
 <img src = "ScreenShot2.png" width="350">
